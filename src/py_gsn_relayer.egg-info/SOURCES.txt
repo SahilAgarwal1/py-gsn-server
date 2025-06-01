@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/config.py
+src/encoders.py
+src/relayer.py
+src/abis/__init__.py
+src/abis/proxy_wallet_factory.py
+src/abis/relay_hub.py
+src/api/__init__.py
+src/api/models.py
+src/api/server.py
+src/py_gsn_relayer.egg-info/PKG-INFO
+src/py_gsn_relayer.egg-info/SOURCES.txt
+src/py_gsn_relayer.egg-info/dependency_links.txt
+src/py_gsn_relayer.egg-info/requires.txt
+src/py_gsn_relayer.egg-info/top_level.txt
